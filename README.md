@@ -3,12 +3,12 @@
 
 [Türememiz Pushanın Botlar](https://github.com/SnowsOuts/pusha-botlar) pushanın botlarıymış ekimizden kod dilenerek bi yerlere geldiğini sanıp övünen çocukmu bu :D
 
-[Yeni Bot Help Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/2Cqd2AmmsX) yeni bot yardım sunucumuz ekimizden destek almak için gelebilirsiniz teşekkürler <3
+[Yeni Bot Help Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/2Cqd2AmmsX) yeni bot yardım sunucumuz ekibimizden destek almak için gelebilirsiniz teşekkürler <3
 
 Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 
 # Proje İçeriği Hakkında Bilgilendirme
-Gelişmiş Backup, Rol Korumalar, Kanal Korumalar, Kategori Koruması (Silinince İçine Eski Kanalları Oto Atma Olayı Falan Filan), Url Korumalar, Webhook, Sunucu Ayarları, Chat Guard Koruması, Sağ-Tık İşlemler Koruması (Bağlantı-Kesme/Susturma/Ban/Kick) gibi özellikleri mevcuttur ve hepsinin güvenli kategorileri vardır Bot Hatasız Tamamen V13' tür. Detaylı bilgi için; ozi.js yi okuyunuz
+Gelişmiş Backup, Rol Korumalar, Kanal Korumalar, Kategori Koruması (Silinince İçine Eski Kanalları Oto Atma Olayı Falan Filan), Url Korumalar, Webhook, Sunucu Ayarları, Chat Guard Koruması, Sağ-Tık İşlemler Koruması (Bağlantı-Kesme/Susturma/Ban/Kick) gibi özellikleri mevcuttur ve hepsinin güvenli kategorileri vardır Bot Hatasız Tamamen V13' tür.
 
 # Proje Hakkındaki Görseller
 
