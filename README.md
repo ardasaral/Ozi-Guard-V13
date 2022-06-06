@@ -1,4 +1,5 @@
-# Ozi-Guard-V13
+# 🎄 Bilgilendirme 
+
 Öncelikle Parzival kardeşim, Snow ve Acerhizm' e test ederkenki yardımları için teşekkür ederim.
 
 [Türememiz Pushanın Botlar](https://github.com/SnowsOuts/pusha-botlar) pushanın botlarıymış ekimizden kod dilenerek bi yerlere geldiğini sanıp övünen çocukmu bu :D
@@ -7,10 +8,18 @@
 
 Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 
-# Proje İçeriği Hakkında Bilgilendirme
-Gelişmiş Backup, Rol Korumalar, Kanal Korumalar, Kategori Koruması (Silinince İçine Eski Kanalları Oto Atma Olayı Falan Filan), Url Korumalar, Webhook, Sunucu Ayarları, Chat Guard Koruması, Sağ-Tık İşlemler Koruması (Bağlantı-Kesme/Susturma/Ban/Kick) gibi özellikleri mevcuttur ve hepsinin güvenli kategorileri vardır Bot Hatasız Tamamen V13' tür.
+# 🪐 Özellikler 
 
-# Proje Hakkındaki Görseller
+- Dağıtıcı sistemi
+- Rol | Kanal | Kategori Koruması | Gelişmiş Backup
+- URL | Webhook | Sunucucu Ayarları Güncelleme Koruması
+- Chat | Sağ-Tık İşlemler Koruması (Bağlantı-Kesme/Susturma/Ban/Kick)
+
+# 🍭 Açıklama
+
+- Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
+
+# 📷 Görseller
 
 https://user-images.githubusercontent.com/92666466/164950884-cab22076-9fec-467f-8ab3-547d08055989.mp4
 
