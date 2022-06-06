@@ -2,6 +2,7 @@
 Öncelikle Parzival kardeşim, Snow ve Acerhizm' e test ederkenki yardımları için teşekkür ederim.
 
 https://github.com/SnowsOuts/pusha-botlar pushanın botlarıymış ekimizden kod dilenerek bi yerlere geldiğini sanıp övünen çocukmu bu :D
+
 https://discord.gg/2Cqd2AmmsX yeni bot yardım sunucumuz ekimizden destek almak için gelebilirsiniz teşekkürler <3
 
 Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
