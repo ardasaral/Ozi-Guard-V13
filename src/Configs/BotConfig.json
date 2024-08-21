@@ -8,21 +8,21 @@
         "",
         ""
     ],
-    "guildID": "978656607980367922",
-    "OtherGuardBotClientID": "893210287233204295",
+    "guildID": "1275184758577561600",
+    "OtherGuardBotClientID": "1275882093926154284",
     "mongoUrl": "",
-    "BotOwner": ["971307007728549918","340047062068494337"],
-    "BotDurum": ["Jaylen ❤️ Acerhizm","Jaylen ❤️ Kronos"],
+    "BotOwner": ["532288120817844264","853004320315801600"],
+    "BotDurum": ["Arda ❤️ Nil","ardasvral ❤️ Romeria"],
     "BotSesKanal": "978656609163153442",
-    "ServerURL": "krns",
+    "ServerURL": "romeria",
   
-    "BoosterRole": "978890868817809430",
-    "MuteRole": "978656608064270430",
-    "JailRole": "978656608064270428",
+    "BoosterRole": "1275192217262096465",
+    "MuteRole": "1275890849527369789",
+    "JailRole": "1275890904447848551",
 
     "Logs": {
-        "WebHookID": "980731641293049857",
-        "WebHookToken": "KdT2HIhWwonU_2akZU-FbzHkBN7l4OJh6VrPUSHA-YARRAMIZI-YESİN"
+        "WebHookID": "https://discord.com/api/webhooks/1275891291619856537/SUt8jULEzwum1GqzwQcpGXB77i_WazXr9qAxZgDX9h-4UkfcAjyZCyQ2Pc09Doruo7-t",
+        "WebHookToken": "SUt8jULEzwum1GqzwQcpGXB77i_WazXr9qAxZgDX9h-4UkfcAjyZCyQ2Pc09Doruo7-t"
     },
 
     "Limit": {
